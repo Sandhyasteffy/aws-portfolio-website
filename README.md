@@ -11,5 +11,5 @@ A personal portfolio website built using HTML, CSS, and JavaScript and hosted on
 ## Live Website
 http://steffy-portfolio-aws.s3-website-us-east-1.amazonaws.com/
 
-## Screenshots
+
 
