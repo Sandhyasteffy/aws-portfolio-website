@@ -9,7 +9,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript and hosted on
 - (Optional) CloudFront
 
 ## Live Website
-Paste your S3 website URL here
+http://steffy-portfolio-aws.s3-website-us-east-1.amazonaws.com/
 
 ## Screenshots
-Attach AWS console screenshots
+
