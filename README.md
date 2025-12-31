@@ -12,11 +12,10 @@ A personal portfolio website built using HTML, CSS, and JavaScript and hosted on
 http://steffy-portfolio-aws.s3-website-us-east-1.amazonaws.com/
 
 ## 📸 Screenshots
+### Static Website Hosting
+![Static Hosting](screenshots/Screenshot%202025-12-31%20104912.png)
 
 ### Bucket Policy
-![S3 Bucket](screenshots/Screenshot%202025-12-31%20102455.png)
-
-### Static Website Hosting
-![Bucket Policy](screenshots/Screenshot%202025-12-31%20104912.png)
+![Bucket Policy](screenshots/Screenshot%202025-12-31%20102455.png)
 
 
