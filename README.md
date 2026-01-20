@@ -7,7 +7,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript and hosted on
 - Amazon S3
 - AWS IAM
 ## Live Website
-http://steffy-portfolio-aws.s3-website-us-east-1.amazonaws.com/
+http://steffy-portfolio-aws.s3-website-us-east-1.amazonaws.com
 
 ## 📸 Screenshots
 ### Static Website Hosting
